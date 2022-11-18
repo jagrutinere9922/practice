@@ -6,5 +6,6 @@ Class Practice
       int b=20;
       int c=a+b;
       System.out.println("addtion ="+c);
+      System.out.println("substraction ="+c);
     }
  }
